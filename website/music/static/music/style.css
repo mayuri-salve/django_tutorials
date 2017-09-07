@@ -1,0 +1,16 @@
+body{
+     background:white url("images/background.jpg");
+}
+.navbar{
+     border-radius:0;
+     background-color: lightblue;
+     font-weight: bold;
+     font-size: 20px;
+}
+
+.navbar-brand{
+     font-family: 'satisfy', cursive;
+     font-weight: bold;
+     font-size: 25px;
+     background-color: lightblue;
+}
